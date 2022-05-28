@@ -1,6 +1,6 @@
 # PROJETO BANCO - ECLIPSE
 
-Identado Algoritimo Básico - Banco que oferece ao seus cliente dois tipos de conta (Corrente/Poupança), os quais possuem as funcionalidade (Depósito/Saque/Transferência).
+Identado Algoritimo Básico para Desafio de Código 01 - Banco que oferece ao seus cliente dois tipos de conta (Corrente/Poupança), os quais possuem as funcionalidade (Depósito/Saque/Transferência).
 
 Tipos de Contas:
 - Corrente;
